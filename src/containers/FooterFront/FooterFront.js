@@ -5,7 +5,7 @@ export default class FooterFront extends React.Component{
     render(){
         return (
             <footer>
-                **FOOTER**
+                **FOOTER AND CO**
             </footer>
         );
     }
